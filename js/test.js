@@ -1,5 +1,5 @@
 'use strict';
-/* ================= channels & config ================= */
+
 const EMAILJS_CFG = {
     SERVICE: "",
     TEMPLATE: "",
